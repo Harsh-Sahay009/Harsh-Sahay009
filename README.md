@@ -33,8 +33,8 @@ Turns noisy family messages and care documents into structured care events that 
 
 ## Tools I work with
 
-**Languages:** Python · TypeScript / JavaScript · Kotlin · SQL
-**Backend & data:** Flask · Node / Express · pandas · PySpark · REST API integration
-**Cloud:** AWS (DynamoDB, IAM, S3, CloudTrail, GuardDuty)
-**AI:** OpenAI and Gemini APIs · LLM-assisted workflows with deterministic fallbacks
-**Frontend:** React · Vite
+- **Languages:** Python · TypeScript / JavaScript · Kotlin · SQL
+- **Backend & data:** Flask · Node / Express · pandas · PySpark · REST API integration
+- **Cloud:** AWS (DynamoDB, IAM, S3, CloudTrail, GuardDuty)
+- **AI:** OpenAI and Gemini APIs · LLM-assisted workflows with deterministic fallbacks
+- **Frontend:** React · Vite
